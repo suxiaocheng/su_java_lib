@@ -1,0 +1,29 @@
+# ignore output file
+*.csv
+*.txt
+
+# ignore backup file
+backup/
+*.swp
+*.backup
+*~
+
+# ignore generate file
+*.class
+*.db
+
+# setting file
+.setting/
+
+# ignore output dir
+output/
+bin/
+
+# ignore compress file
+*.xz
+
+
+# ignore log file
+*.log
+log/
+
